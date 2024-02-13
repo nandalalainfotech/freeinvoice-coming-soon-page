@@ -16,14 +16,14 @@ const ComingSoon = () => {
            <span> <a className="" href="https://nandalalainfotech.com/" target="_blank" rel="noopener noreferrer"><img className='nanda_logo' src={"./images/nandalala.green.svg"}/></a> </span>
           </div>
           <div className="social">
-            <a href="https://www.facebook.com/profile.php?id=61555301096609609" title="Facebook" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/profile.php?id=61555301096609609"  target="_blank" rel="noopener noreferrer">
               <IconFacebook className="icon1" />
             </a>
-            <a href="https://www.youtube.com/watch?v=l3bmI7NdPfE" title="Youtube" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.youtube.com/watch?v=l3bmI7NdPfE"  target="_blank" rel="noopener noreferrer">
               <IconYoutube className="icon2" />
             </a>
         
-            <a href="https://www.linkedin.com/in/invoicefree-nandalala-91ab122a7/" title="Linkedin" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/invoicefree-nandalala-91ab122a7/"  target="_blank" rel="noopener noreferrer">
               <IconLinkedin className="icon" />
             </a>
           </div>
