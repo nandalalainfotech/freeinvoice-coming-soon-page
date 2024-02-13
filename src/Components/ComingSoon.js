@@ -13,14 +13,14 @@ const ComingSoon = () => {
        <div className="card">
         <div className="header">
           <div className="logo">
-           <img className='nanda_logo' src={"./images/nandalala_logo.svg"}/>
+           <span> <a className="" href="https://nandalalainfotech.com/" target="_blank" rel="noopener noreferrer"><img className='nanda_logo' src={"./images/nandalala.green.svg"}/></a> </span>
           </div>
           <div className="social">
             <a href="https://www.facebook.com/profile.php?id=61555301096609609" title="Facebook" target="_blank" rel="noopener noreferrer">
               <IconFacebook className="icon1" />
             </a>
-            <a href="https://www.youtube.com/watch?v=l3bmI7NdPfE" title="Linkedin" target="_blank" rel="noopener noreferrer">
-              <IconYoutube className="icon1" />
+            <a href="https://www.youtube.com/watch?v=l3bmI7NdPfE" title="Youtube" target="_blank" rel="noopener noreferrer">
+              <IconYoutube className="icon2" />
             </a>
         
             <a href="https://www.linkedin.com/in/invoicefree-nandalala-91ab122a7/" title="Linkedin" target="_blank" rel="noopener noreferrer">
@@ -38,7 +38,7 @@ const ComingSoon = () => {
           </a>
         </div>
         <div className="footer">
-          <span>powered by <a className="underlined" href="https://nandalalainfotech.com/" target="_blank" rel="noopener noreferrer">nandalalainfotech</a>  <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer"></a>  <a className="underlined" href="https://github.com/arkn98/coming-soon" title="GitHub repo" target="_blank" rel="noopener noreferrer"></a></span>
+          <span>powered by <a className="underlined" href="https://nandalalainfotech.com/" target="_blank" rel="noopener noreferrer">nandalalainfotech.com</a>  <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer"></a>  <a className="underlined" href="https://github.com/arkn98/coming-soon" title="GitHub repo" target="_blank" rel="noopener noreferrer"></a></span>
         </div>
       </div>
        </>
