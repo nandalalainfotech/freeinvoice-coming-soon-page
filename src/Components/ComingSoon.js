@@ -23,7 +23,7 @@ const ComingSoon = () => {
               <IconYoutube className="icon2" />
             </a>
         
-            <a href="https://www.linkedin.com/in/invoicefree-nandalala-91ab122a7/"  target="_blank" rel="noopener noreferrer">
+            <a href="#"  target="_blank" rel="noopener noreferrer">
               <IconLinkedin className="icon" />
             </a>
           </div>
